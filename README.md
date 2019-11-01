@@ -60,7 +60,8 @@ See the [open issues](https://github.com/WomenWhoCode/WWCodeGreenville/issues) f
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Check out CONTRIBUTING.md for how best to make contributions. Any contributions you make are **greatly appreciated**.
+[Check out our contributing guidelines for how best to make contributions. Any contributions you make are greatly appreciated.]
+(https://github.com/WomenWhoCode/WWCodeGreenville/blob/master/CONTRIBUTING.md)
 
 <!-- CODE OF CONDUCT -->
 ## Code of Conduct
