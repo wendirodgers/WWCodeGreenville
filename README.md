@@ -72,8 +72,9 @@ Read the full version and access our incident report form at [womenwhocode.com/c
 
 <!-- LICENSE -->
 ## License
+The MIT License (MIT)
 
-Add License info here.
+Copyright (c) 2019 Women Who Code Greenville
 
 <!-- CONTACT -->
 ## Contact
